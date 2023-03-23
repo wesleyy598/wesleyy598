@@ -1,6 +1,4 @@
-### Olá, eu sou o Wesley Carvalho👋
-
-##
+### Olá, eu sou o Wesley Carvalho 👋
 
 - 🔭 Atualmente, sou Analista de TI com foco em Infraestrutura, Suporte e Redes,
   mas desenvolvo em ASP.NET CORE | ASP.NET Framework MVC | SQL Server | C#
@@ -35,3 +33,15 @@
 </div>
   
 ##
+
+<p>
+  <a href="https://www.linkedin.com/in/wycarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="mailto:wesleyy598@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <!--<a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a>-->
+</p>
+  
+##
+  
+<!-- pic creator -->
+  
+<!-- cobrinha de commit -->
