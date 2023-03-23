@@ -4,7 +4,7 @@
   mas desenvolvo em ASP.NET CORE | ASP.NET Framework MVC | SQL Server | C#
 - 🌱 Estudando .NET
 - 📫 Contate-me no e-mail: wesleyy598@gmail.com
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: ele/he
 
 <div>
   <a href="https://github.com/wesleyy598">
