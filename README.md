@@ -5,6 +5,7 @@
 - 🌱 Estudando .NET
 - 📫 Contate-me no e-mail: wesleyy598@gmail.com
 - 😄 Pronomes: ele/he
+
 <p>
   <a href="https://www.linkedin.com/in/wycarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="mailto:wesleyy598@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
