@@ -5,6 +5,11 @@
 - 🌱 Estudando .NET
 - 📫 Contate-me no e-mail: wesleyy598@gmail.com
 - 😄 Pronomes: ele/he
+<p>
+  <a href="https://www.linkedin.com/in/wycarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="mailto:wesleyy598@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <!--<a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a>-->
+</p>
 
 ##
 
@@ -31,14 +36,6 @@
   <img align="center" alt="Wesley-.PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Wesley-.PYS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
 </div>
-  
-##
-
-<p>
-  <a href="https://www.linkedin.com/in/wycarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="mailto:wesleyy598@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <!--<a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a>-->
-</p>
   
 ##
   
