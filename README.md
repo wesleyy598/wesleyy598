@@ -15,9 +15,10 @@
 ##
 
 <div>
-  <a href="https://github.com/wesleyy598">
+  <a href="https://github.com/wesleyy598"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyy598&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyy598&layout=compact&langs_count=16&theme=dark"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyy598&layout=compact&langs_count=16&theme=dark"/>-->
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 </div>
   
 ##
